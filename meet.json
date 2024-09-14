@@ -1,0 +1,170 @@
+[
+  {
+    "id": 431412922,
+    "name": "A-square",
+    "html_url": "https://github.com/Meet57/A-square",
+    "description": "Website for a2-studios",
+    "category": "Freelance",
+    "tags": ["Freelance", "Web Development", "HTML", "CSS", "JavaScript"]
+  },
+  {
+    "id": 389878924,
+    "name": "AnkurAlang",
+    "html_url": "https://github.com/Meet57/AnkurAlang",
+    "description": "Website for a Industrial Client",
+    "category": "Freelance",
+    "tags": ["Freelance", "Web Development", "HTML", "CSS", "JavaScript"]
+  },
+  {
+    "id": 496511874,
+    "name": "antlr",
+    "html_url": "https://github.com/Meet57/antlr",
+    "description": "Working on an ANTLR practice project to build custom parsers and enhance my understanding of language processing!",
+    "category": "Learnings",
+    "tags": ["Learnings", "ANTLR", "Parser Development", "Compiler Design"]
+  },
+  {
+    "id": 290225356,
+    "name": "BookList",
+    "html_url": "https://github.com/Meet57/BookList",
+    "description": "ReadList , where you can put book names so you can read it later just like a list. Use local storage to store your data",
+    "category": "Web Development",
+    "tags": ["Web Development", "JavaScript", "Local Storage", "ReactJS"]
+  },
+  {
+    "id": 478118218,
+    "name": "Data-Extraction-Sentiment-Analysis",
+    "html_url": "https://github.com/Meet57/Data-Extraction-Sentiment-Analysis",
+    "description": "Emotion Analysis of any text | Twitter data extraction and sentiment analysis based on COVID data",
+    "category": "AI/ML",
+    "tags": ["AI/ML", "Sentiment Analysis", "Twitter API", "Data Extraction", "Python"]
+  },
+  {
+    "id": 375265829,
+    "name": "DhruvRathod-Website",
+    "html_url": "https://github.com/Meet57/DhruvRathod-Website",
+    "description": "Website for a Designer Client",
+    "category": "Freelance",
+    "tags": ["Freelance", "Web Development", "HTML", "CSS", "JavaScript"]
+  },
+  {
+    "id": 804580952,
+    "name": "FileFuse",
+    "html_url": "https://github.com/Meet57/FileFuse",
+    "description": "This project involves the development of a client-server system where clients can request files from a server, and the server retrieves and returns the requested files. The system supports multiple clients connecting from different machines and communicating with the server through sockets.",
+    "category": "System Programming",
+    "tags": ["System Programming", "Client-Server", "Sockets", "Java"]
+  },
+  {
+    "id": 509808045,
+    "name": "FolioPixel",
+    "html_url": "https://github.com/Meet57/FolioPixel",
+    "description": "Website for a Photographer Client",
+    "category": "Freelance",
+    "tags": ["Freelance", "Web Development", "HTML", "CSS", "JavaScript"]
+  },
+  {
+    "id": 835431359,
+    "name": "GreenCart",
+    "html_url": "https://github.com/Meet57/GreenCart",
+    "description": "Ecommerce Website to Sell Green Items",
+    "category": "Web Development",
+    "tags": ["Web Development", "Ecommerce", "ReactJS", "NodeJS"]
+  },
+  {
+    "id": 383721295,
+    "name": "habtec",
+    "html_url": "https://github.com/Meet57/habtec",
+    "description": "Website for a Industrial Client",
+    "category": "Freelance",
+    "tags": ["Freelance", "Web Development", "HTML", "CSS", "JavaScript"]
+  },
+  {
+    "id": 831807797,
+    "name": "HashLengthExtension_Project",
+    "html_url": "https://github.com/Meet57/HashLengthExtension_Project",
+    "description": "This project involves the implementation of a length extension attack on the SHA-256 hash function. The attack is demonstrated by extending the hash of a secret message to generate a valid hash for a new message.",
+    "category": "System Programming",
+    "tags": ["System Programming", "Cryptography", "SHA-256", "Java"]
+  },
+  {
+    "id": 515535400,
+    "name": "JavaInternship",
+    "html_url": "https://github.com/Meet57/JavaInternship",
+    "description": "This repository contains the code for the Java Internship I did at the end of my 3rd year of college. The internship was focused on Java, Spring Boot, and Multithreading.",
+    "category": "Learnings",
+    "tags": ["Learnings", "Java", "Spring Boot", "Multithreading"]
+  },
+  {
+    "id": 759539717,
+    "name": "Job-Radar",
+    "html_url": "https://github.com/Meet57/Job-Radar",
+    "description": "Developed a job search engine with advanced scraping, auto-complete using Trie and Edit Distance in Java, and a responsive UI with Ant Design and ReactJS, featuring RESTful APIs for real-time data access.",
+    "category": "Web Development",
+    "tags": ["Web Development", "Scraping", "Java", "Trie Data Structure", "Edit Distance", "ReactJS", "Ant Design"]
+  },
+  {
+    "id": 533163058,
+    "name": "LiteNMS",
+    "html_url": "https://github.com/Meet57/LiteNMS",
+    "description": "Network Monitoring System for monitoring the network devices and their Metrics",
+    "category": "System Programming",
+    "tags": ["System Programming", "Network Monitoring", "IoT", "Java"]
+  },
+  {
+    "id": 372071425,
+    "name": "Mern-Todo",
+    "html_url": "https://github.com/Meet57/Mern-Todo",
+    "description": "A simple MERN todo app without authentication just to take overview of mern stack",
+    "category": "Web Development",
+    "tags": ["Web Development", "MERN Stack", "MongoDB", "Express", "ReactJS", "NodeJS"]
+  },
+  {
+    "id": 364638792,
+    "name": "Niral-Appointment-App",
+    "html_url": "https://github.com/Meet57/Niral-Appointment-App",
+    "description": "Appointment Application for a hospital",
+    "category": "Freelance",
+    "tags": ["Freelance", "Web Development", "Appointment Scheduling", "HTML", "CSS", "JavaScript"]
+  },
+  {
+    "id": 790836171,
+    "name": "NourishNet",
+    "html_url": "https://github.com/Meet57/NourishNet",
+    "description": "NourishNet - Welcome to the NourishNet Project! This initiative, part of the Advanced Database Topics course, addresses childhood malnutrition, a critical global issue, using advanced data analysis methods.",
+    "category": "AI/ML",
+    "tags": ["AI/ML", "Data Analysis", "Database", "Python"]
+  },
+  {
+    "id": 410996771,
+    "name": "PetPooja-Sem_7_Project",
+    "html_url": "https://github.com/Meet57/PetPooja-Sem_7_Project",
+    "description": "A restaurant's Web Application for taking the order, billing, and providing a capability for the chef to keep track of uncooked food.",
+    "category": "Web Development",
+    "tags": ["Web Development", "Restaurant Management", "Order System", "Billing"]
+  },
+  {
+    "id": 337928689,
+    "name": "Project-Sem-6",
+    "html_url": "https://github.com/Meet57/Project-Sem-6",
+    "description": "A system for monitor water level in a tank using IoT",
+    "category": "Embedded Systems",
+    "tags": ["Embedded Systems", "IoT", "Water Level Monitoring", "Microcontrollers"]
+  },
+  {
+    "id": 364359998,
+    "name": "REST-API-MongoDB",
+    "html_url": "https://github.com/Meet57/REST-API-MongoDB",
+    "description": "A simple REST API using NodeJS and MongoDB",
+    "category": "Web Development",
+    "tags": ["Web Development", "REST API", "NodeJS", "MongoDB"]
+  },
+  {
+    "id": 290225356,
+    "name": "TaskZen",
+    "html_url": "https://github.com/Meet57/TaskZen",
+    "description": "Task Management App using NextJS and Ant Design for the frontend, with PocketBase handling real-time database management and user authentication!",
+    "category": "Web Development",
+    "tags": ["Web Development", "NextJS", "Ant Design", "PocketBase", "Task Management"]
+  }
+]
