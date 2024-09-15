@@ -902,6 +902,7 @@ main {
   background: var(--eerie-black-2);
   position: absolute;
   top: calc(100% + 6px);
+  color: white;
   width: 100%;
   padding: 6px;
   border: 1px solid var(--jet);
@@ -953,6 +954,58 @@ main {
 
 .project-item > a { width: 100%; }
 
+.project-item {
+  position: relative; /* Position relative to position the popover absolutely */
+}
+
+.description-popover {
+  display: none; /* Hide popover by default */
+  position: absolute;
+  bottom: 10%;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #333; /* Dark background for the popover */
+  color: #fff; /* White text color */
+  padding: 10px;
+  border-radius: 8px;
+  font-size: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  width: 200px; /* Set the width of the popover */
+  z-index: 10; /* Ensure the popover appears above other elements */
+  opacity: 0;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.project-item:hover .description-popover {
+  display: block; /* Show popover on hover */
+  opacity: 1;
+  transform: translateX(-50%) translateY(10px); /* Adjust position on hover */
+}
+
+.tags-container {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.tag {
+  display: inline-block;
+  background-color: #e67d227a;
+  color: var(--white-2);
+  border-radius: 8px;
+  padding: 5px 10px;
+  font-size: 10px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.tag:hover {
+  background-color: var(--light-gray-20);
+  transform: scale(1.05);
+}
+
 .project-img {
   position: relative;
   width: 100%;
@@ -974,7 +1027,7 @@ main {
   transition: var(--transition-1);
 }
 
-.project-item > a:hover .project-img::before { background: hsla(0, 0%, 0%, 0.5); }
+.project-item:hover .project-img::before { background: hsla(0, 0%, 0%, 0.5); }
 
 .project-item-icon-box {
   --scale: 0.8;
@@ -993,7 +1046,7 @@ main {
   transition: var(--transition-1);
 }
 
-.project-item > a:hover .project-item-icon-box {
+.project-item:hover .project-item-icon-box {
   --scale: 1;
   opacity: 1;
 }
@@ -1007,7 +1060,16 @@ main {
   transition: var(--transition-1);
 }
 
-.project-item > a:hover img { transform: scale(1.1); }
+.project-item:hover img { transform: scale(1.1); }
+
+.icon-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.icon-link ion-icon {
+  color: var(--orange-yellow-crayola); /* Or any color you prefer */
+}
 
 .project-title,
 .project-category { margin-left: 10px; }
