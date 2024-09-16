@@ -2,6 +2,7 @@
   {
     "id": 431412922,
     "name": "A-square",
+    "image": "./assets/images/A-square.png",
     "html_url": "https://github.com/Meet57/A-square",
     "description": "Developed a website for A-square Studios using HTML, CSS, and JavaScript. The site showcases studio services and portfolio, providing an interactive user experience.",
     "category": "Freelance",
@@ -10,6 +11,7 @@
   {
     "id": 389878924,
     "name": "AnkurAlang",
+    "image": "./assets/images/AnkurAlang.png",
     "html_url": "https://github.com/Meet57/AnkurAlang",
     "description": "Built a responsive website for an industrial client using HTML, CSS, and JavaScript, focusing on presenting the client's product line and services efficiently.",
     "category": "Freelance",
@@ -18,6 +20,7 @@
   {
     "id": 496511874,
     "name": "antlr",
+    "image": "./assets/images/antlr.png",
     "html_url": "https://github.com/Meet57/antlr",
     "description": "Working on a practice project using ANTLR to build custom parsers, enhancing my skills in language processing, parser development, and compiler design.",
     "category": "Learnings",
@@ -26,6 +29,7 @@
   {
     "id": 290225356,
     "name": "BookList",
+    "image": "./assets/images/BookList.png",
     "html_url": "https://github.com/Meet57/BookList",
     "description": "Developed a web app to list and store book names for future reading using ReactJS. Local storage ensures data persistence without external databases.",
     "category": "Web Development",
@@ -34,6 +38,7 @@
   {
     "id": 478118218,
     "name": "Data-Extraction-Sentiment-Analysis",
+    "image": "https://placehold.co/600x400?text=Data-Extraction-Sentiment-Analysis",
     "html_url": "https://github.com/Meet57/Data-Extraction-Sentiment-Analysis",
     "description": "Created a sentiment analysis tool that extracts data from Twitter and analyzes emotional trends, particularly focused on COVID-related discussions.",
     "category": "AI/ML",
@@ -42,6 +47,7 @@
   {
     "id": 375265829,
     "name": "DhruvRathod-Website",
+    "image": "./assets/images/DhruvRathod-Website.png",
     "html_url": "https://github.com/Meet57/DhruvRathod-Website",
     "description": "Developed a modern and responsive website for a designer client using HTML, CSS, and JavaScript, focusing on showcasing the designer’s portfolio and projects.",
     "category": "Freelance",
@@ -50,6 +56,7 @@
   {
     "id": 804580952,
     "name": "FileFuse",
+    "image": "https://placehold.co/600x400?text=FileFuse",
     "html_url": "https://github.com/Meet57/FileFuse",
     "description": "Developed a client-server system where clients request files from a server. Implemented socket communication to handle multiple client connections.",
     "category": "System Programming",
@@ -58,6 +65,7 @@
   {
     "id": 509808045,
     "name": "FolioPixel",
+    "image": "./assets/images/FolioPixel.png",
     "html_url": "https://github.com/Meet57/FolioPixel",
     "description": "Built a photography portfolio website for a freelance client using HTML, CSS, and JavaScript, emphasizing clean design and user-friendly navigation.",
     "category": "Freelance",
@@ -66,6 +74,7 @@
   {
     "id": 835431359,
     "name": "GreenCart",
+    "image": "./assets/images/GreenCart.png",
     "html_url": "https://github.com/Meet57/GreenCart",
     "description": "Created an e-commerce website for selling green items using ReactJS and NodeJS. Features include a shopping cart, user authentication, and payment integration.",
     "category": "Web Development",
@@ -74,6 +83,7 @@
   {
     "id": 383721295,
     "name": "habtec",
+    "image": "./assets/images/habtec.png",
     "html_url": "https://github.com/Meet57/habtec",
     "description": "Developed a website for an industrial client, focusing on presenting services and products, utilizing HTML, CSS, and JavaScript for a responsive design.",
     "category": "Freelance",
@@ -82,6 +92,7 @@
   {
     "id": 831807797,
     "name": "HashLengthExtension_Project",
+    "image": "./assets/images/HashLengthExtension_Project.png",
     "html_url": "https://github.com/Meet57/HashLengthExtension_Project",
     "description": "Implemented a length extension attack on the SHA-256 hash function, demonstrating how to extend a hash of a secret message to create a new valid hash.",
     "category": "System Programming",
@@ -90,6 +101,7 @@
   {
     "id": 515535400,
     "name": "JavaInternship",
+    "image": "https://placehold.co/600x400?text=JavaInternship",
     "html_url": "https://github.com/Meet57/JavaInternship",
     "description": "Code repository from a Java internship focused on Spring Boot and multithreading concepts. Includes code and implementations developed during the internship.",
     "category": "Learnings",
@@ -98,6 +110,7 @@
   {
     "id": 759539717,
     "name": "Job-Radar",
+    "image": "./assets/images/Job-Radar.png",
     "html_url": "https://github.com/Meet57/Job-Radar",
     "description": "Developed a job search engine with advanced scraping and autocomplete features using Java and ReactJS. Includes RESTful APIs for real-time job listing updates.",
     "category": "Web Development",
@@ -106,6 +119,7 @@
   {
     "id": 533163058,
     "name": "LiteNMS",
+    "image": "./assets/images/LiteNMS.png",
     "html_url": "https://github.com/Meet57/LiteNMS",
     "description": "Designed a network monitoring system to track device metrics in real-time. Implemented monitoring features using IoT devices and Java for backend processing.",
     "category": "System Programming",
@@ -114,6 +128,7 @@
   {
     "id": 372071425,
     "name": "Mern-Todo",
+    "image": "https://placehold.co/600x400?text=Mern-Todo",
     "html_url": "https://github.com/Meet57/Mern-Todo",
     "description": "Created a simple MERN stack to-do app to practice MongoDB, Express, React, and Node.js, implementing basic CRUD functionalities without user authentication.",
     "category": "Web Development",
@@ -122,6 +137,7 @@
   {
     "id": 364638792,
     "name": "Niral-Appointment-App",
+    "image": "./assets/images/Niral-Appointment-App.png",
     "html_url": "https://github.com/Meet57/Niral-Appointment-App",
     "description": "Developed an appointment scheduling app for a hospital using HTML, CSS, and JavaScript. Features include booking appointments and managing patient records.",
     "category": "Freelance",
@@ -130,6 +146,7 @@
   {
     "id": 790836171,
     "name": "NourishNet",
+    "image": "https://placehold.co/600x400?text=NourishNet",
     "html_url": "https://github.com/Meet57/NourishNet",
     "description": "Worked on a data analysis project focused on addressing childhood malnutrition using advanced data processing and AI techniques, part of a course project.",
     "category": "AI/ML",
@@ -138,6 +155,7 @@
   {
     "id": 410996771,
     "name": "PetPooja-Sem_7_Project",
+    "image": "./assets/images/PetPooja-Sem_7_Project.png",
     "html_url": "https://github.com/Meet57/PetPooja-Sem_7_Project",
     "description": "Built a web application for restaurant order management, billing, and kitchen tracking using web technologies like HTML, CSS, JavaScript, and backend integration.",
     "category": "Web Development",
@@ -146,6 +164,7 @@
   {
     "id": 337928689,
     "name": "Project-Sem-6",
+    "image": "https://placehold.co/600x400?text=Project-Sem-6",
     "html_url": "https://github.com/Meet57/Project-Sem-6",
     "description": "Designed a water level monitoring system using IoT and microcontrollers to track water usage and tank levels, providing alerts when levels are low or high.",
     "category": "Embedded Systems",
@@ -154,6 +173,7 @@
   {
     "id": 364359998,
     "name": "REST-API-MongoDB",
+    "image": "https://placehold.co/600x400?text=REST-API-MongoDB",
     "html_url": "https://github.com/Meet57/REST-API-MongoDB",
     "description": "Developed a basic REST API using Node.js and MongoDB, providing CRUD functionalities to manage records stored in a MongoDB database.",
     "category": "Web Development",
